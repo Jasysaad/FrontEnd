@@ -4,7 +4,7 @@ h1, th {
 }
 
 p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier;
 }
 
 .error {
@@ -13,7 +13,7 @@ p {
 }
 
 nav {
-    background-color: burlywood;
+    background-color: rgb(135, 141, 222);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
